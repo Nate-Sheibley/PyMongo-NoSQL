@@ -1,4 +1,4 @@
-# NoSQL-python
+# PyMongo-NoSQL
 Interfacing with a local mongodb server using pymongo.
 
 # References 
